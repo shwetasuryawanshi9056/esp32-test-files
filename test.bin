@@ -1,1 +1,4 @@
 01010101010101
+This is a test file for ESP32 download.
+Line 2: Testing SPIFFS write and read.
+Line 3: Download speed measurement.
